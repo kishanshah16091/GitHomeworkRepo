@@ -6,6 +6,9 @@ public class HW1 {
 
             System.out.println(i);
         }
+        System.out.println("***********************************************************************");
+        for (int i = 0; i < 51; i++) {
+            System.out.println(i);
+        }
     }
 }
-
